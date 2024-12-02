@@ -1,0 +1,46 @@
+
+
+.container-principal{
+    display: flex;
+    height: 100vh;
+    
+}
+
+.menu{
+    width: 25%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #CDC3E6;
+}
+
+.contenido{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    min-width: 100vh;
+    background-color: #E8EBE4;
+    
+}
+
+.menu-item{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+   
+}
+
+.contenido-item{
+    text-align: center;
+    width: 400px;
+}
+
+.nuevo-chat {
+    padding: 20px;
+    margin: 30px;
+    background-color: #828485;
+
+}
+
+
