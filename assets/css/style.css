@@ -28,6 +28,7 @@
     display: flex;
     justify-content: space-around;
     padding: 10px;
+    border: solid 1px gray;
    
 }
 
@@ -45,6 +46,7 @@
 
 .foto-activa{
     display: flex;
+    
 }
 
 .imagen-activa{
@@ -73,6 +75,7 @@
 }
 .chat-menu{
     display: flex;
+    border: solid 1px gray;
 }
 .imagenes{
     width: 40px;
@@ -93,3 +96,5 @@ h4{
     padding: 1px; 
     margin: 1px;
 }
+
+    
